@@ -1,7 +1,5 @@
 # Winding Data Converter
 
-This project converts raw winding process image data (HEIC format) into a dataset structure used for machine learning training.
-
 The script reads folders like:
 
 ```plaintext
